@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\projectwork\Specch Rec\Source.cpp(171,48): warning C4101: 'wparams': unreferenced local variable
+D:\projectwork\Specch Rec\Source.cpp(172,13): warning C4101: 'n_segments': unreferenced local variable
+D:\projectwork\Specch Rec\Source.cpp(170,33): warning C4101: 'ctx': unreferenced local variable
+D:\projectwork\Specch Rec\Source.cpp(310,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Specch Rec.vcxproj -> D:\projectwork\Specch Rec\x64\Debug\Specch Rec.exe
